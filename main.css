@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container header{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+.container h1{
+    
+    color: white;
+    text-align: center;
+    
+    align-items: center;
+    padding: 40px;
+}
+input{
+    width: 250px;
+    height: 40px;
+    padding: 10px;
+    
+}
+.container{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.form{
+    display: flex;
+    width: 100%;
+    
+    background-color: rgb(178, 175, 175);
+    
+    font-size: 30px;
+    justify-content: center;
+    padding: 10px;
+}
+table{
+    color: black;
+    padding: 8px;
+    margin: 0;
+   
+}
+tfoot {
+    padding: 8px;
+}
+th{
+    padding: 8px 38px;
+    
+}
+td{
+    text-align: center;
+}
+
